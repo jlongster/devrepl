@@ -3,7 +3,7 @@
 
 A REPL for interacting with Firefox debugger client/server. More to come.
 
-To run under emacs, just run `(run-js "/path/to/devrepl)`. Even
+To run under emacs, just run `(run-js "/path/to/devrepl")`. Even
 better, bind it to key to get instant REPL whenever you want:
 
 ```
