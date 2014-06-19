@@ -17,6 +17,10 @@ better, bind it to key to get instant REPL whenever you want:
 Instructions for other editors like Sublime is coming. Basically just
 run the `devrepl` script though.
 
+You can use `debugger` in code to trigger breakpoints. The REPL will
+print "paused" when the thread is paused because of a breakpoint.
+Better interaction here is coming.
+
 Use a comma to run a REPL command. Available commands:
 
 * `,quit` - quit
