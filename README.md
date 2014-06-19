@@ -35,4 +35,4 @@ Use a comma to run a REPL command. Available commands:
 * `,threadstate` - print the existing thread state
 * `,global <expr>` - when inside a module eval environment, eval <expr> in the global scope instead of the module
 
-![http://recordit.co/B7eBV0lvjl.gif]()
+![](http://recordit.co/B7eBV0lvjl.gif)
