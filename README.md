@@ -34,3 +34,5 @@ Use a comma to run a REPL command. Available commands:
 * `,close` - close the current module evaluation environment and return to the global scope
 * `,threadstate` - print the existing thread state
 * `,global <expr>` - when inside a module eval environment, eval <expr> in the global scope instead of the module
+
+![http://recordit.co/B7eBV0lvjl.gif]()
