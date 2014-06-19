@@ -1,0 +1,7 @@
+#!/bin/sh
+
+FILE="$1"
+ROOT=`dirname "$0"`
+XPCSHELL=`/usr/local/bin/node "$ROOT"/find-xpcshell.js`
+
+exec "$XPCSHELL" "$ROOT"/devrepl.js
